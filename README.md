@@ -15,7 +15,7 @@ The project includes the following core tasks:
 | File Name                | Description                                                               |
 | ------------------------ | ------------------------------------------------------------------------- |
 | `bharat_electronics.csv` | Historical stock price data of BEL used for time series modeling          |
-| `forecasting_BEL.py`     | Python script implementing ARIMA, SARIMA, and LSTM models for forecasting |
+| `forecasting_BEL.ipynb`     | Python script implementing ARIMA, SARIMA, and LSTM models for forecasting |
 | `Time_series.pbix`       | Power BI dashboard for visual exploration of trends and forecast results  |
 
 ### 📊 Techniques Used
